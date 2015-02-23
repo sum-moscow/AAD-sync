@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfg>
+    <backupPath>somePath</backupPath>
+    <AAD>
+        <username>ADLogin</username>
+        <password>ADPassword</password>
+    </AAD>
+</cfg>
