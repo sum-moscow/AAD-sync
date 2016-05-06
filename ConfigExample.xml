@@ -2,7 +2,11 @@
 <cfg>
     <backupPath>somePath</backupPath>
     <AAD>
-        <username>ADLogin</username>
-        <password>ADPassword</password>
+        <username>AADLogin</username>
+        <password>AADPassword</password>
     </AAD>
+    <dashing>
+        <url>http://contoso.com</url>
+        <token>someToken</token>
+    </dashing>
 </cfg>
